@@ -12,7 +12,14 @@ The code given for Horiseon doesn't follow HTML semantics as well as having some
 
         **example:** <div class="#"> changed to <section class="#">
         **example:** <div id="#"> changed to <article id="#">
-2. 
+2. Cleaned up CSS selector elements that had redundant sections.
+
+        **example:** <header class="header"> changed to <header>
+3. Added alt tags after the images within the main section of the website for accessibility.     
+4. Fixed the header attributes so that they were in sequential order. 
+
+        **example:** in the footer section there was a h2 tag and it was changed to and h4 tag. 
+
 
     
 
