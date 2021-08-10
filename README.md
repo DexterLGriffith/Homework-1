@@ -8,10 +8,10 @@ The code given for Horiseon doesn't follow HTML semantics as well as having some
 
 ## tasks completed
 
-    1. Changed the HTML to follow general HTML semantics. 
-        **example:** <div class="#"> changed to <section class="#">
-        **example:** <div id="#"> changed to <article id="#">
-    2. 
+1. Changed the HTML to follow general HTML semantics. 
+    **example:** <div class="#"> changed to <section class="#">
+    **example:** <div id="#"> changed to <article id="#">
+2. 
 
     
 
