@@ -30,6 +30,7 @@ The code given for Horiseon doesn't follow HTML semantics as well as having some
 ## Links
 
 [Link to the Website](https://dexterlgriffith.github.io/Homework-1/)
+
 [Link to the Code Repository](https://github.com/DexterLGriffith/Homework-1)
     
 ## Credits     
